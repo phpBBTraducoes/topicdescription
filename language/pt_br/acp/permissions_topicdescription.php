@@ -4,7 +4,7 @@
 * @package Topic description
 * @copyright (c) 2016 RMcGirr83
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.2] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.4] (https://github.com/phpBBTraducoes)
 *
 */
 
